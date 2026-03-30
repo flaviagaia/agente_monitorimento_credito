@@ -1,0 +1,5 @@
+customer_id,name,current_score,previous_score,credit_utilization_pct,previous_utilization_pct,recent_late_payments,previous_late_payments,negative_records,hard_inquiries_3m,monthly_income,exposure,segment
+MON-1001,Ana Souza,742,751,31,24,0,0,0,1,12500,18000,Prime
+MON-1002,Bruno Lima,618,662,72,54,2,1,1,4,7300,24600,Mass Affluent
+MON-1003,Carla Mendes,556,603,89,77,4,2,2,5,5200,28100,Mass Market
+MON-1004,Daniela Rocha,684,679,38,41,0,0,0,1,9800,13200,Prime

@@ -11,6 +11,10 @@ O projeto simula um agente de monitoramento usado por times de crédito ou cobra
 - qual mensagem deve ser enviada ao cliente?
 - o caso entra em monitoramento ativo ou acompanhamento assistido?
 
+## Interface
+
+![Interface do agente de monitoramento](assets/monitoramento_credito.jpg)
+
 ## Arquitetura
 
 ```mermaid
@@ -153,6 +157,10 @@ No cenário mais crítico (`MON-1003`):
 # English Version
 
 `Agente Monitorimento Credito` is a `LangGraph` MVP for credit monitoring and early risk detection.
+
+## Interface
+
+![Credit monitoring interface](assets/monitoramento_credito.jpg)
 
 The project demonstrates:
 

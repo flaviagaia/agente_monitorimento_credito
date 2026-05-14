@@ -99,15 +99,15 @@ Depois, o score de risco é convertido em:
 
 ## Estrutura do Projeto
 
-- [src/graph_agent.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/agente_monitorimento_credito/src/graph_agent.py)
+- [src/graph_agent.py](src/graph_agent.py)
   - define o grafo, os nós e a execução principal.
-- [src/sample_data.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/agente_monitorimento_credito/src/sample_data.py)
+- [src/sample_data.py](src/sample_data.py)
   - gera e carrega a base demo.
-- [app.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/agente_monitorimento_credito/app.py)
+- [app.py](app.py)
   - interface em Streamlit para inspeção do fluxo.
-- [main.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/agente_monitorimento_credito/main.py)
+- [main.py](main.py)
   - execução rápida do caso padrão.
-- [tests/test_graph_agent.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/agente_monitorimento_credito/tests/test_graph_agent.py)
+- [tests/test_graph_agent.py](tests/test_graph_agent.py)
   - validação do fluxo principal.
 
 ## Execução Local
